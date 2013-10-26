@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment2Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Start</string>
+    <string name="gameTitle">Snake - Brian Version</string>
+    <string name="directions">Make sure your device is flat. Shake to start.</string>
+    <string name="restart">Restart</string>
+    <string name="post">Post</string>
+    <string name="exit">Exit</string>
+    <string name="port">Port</string>
+    <string name="domain">Domain</string>
+    <string name="name">Name</string>
+
+</resources>

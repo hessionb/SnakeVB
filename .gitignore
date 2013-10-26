@@ -1,0 +1,7 @@
+bin
+assets
+gen
+proguard-project.txt
+project.properties
+ic_launcher-web.png
+libs
